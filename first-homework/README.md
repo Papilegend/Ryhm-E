@@ -124,11 +124,11 @@ https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 
 ## Kuidas on see testitud?
 
-Kasutades HackerRanki automaatteste 
+- Kasutades HackerRanki automaatteste
 
 ## Kasutatud keel:
 
-Python
+Python 
 
 ## Kontroll-nimekiri
 - [ ] Kood järgib selle projekti stiiliga seotud reegleid
