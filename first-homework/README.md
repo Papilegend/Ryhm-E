@@ -3,7 +3,7 @@ Siia kausta lisame 1. kodutöö failid.
 # Ülesanne 1 - 
 
 ## Kirjeldus + link ülesandele
-- jou jou jou 
+
 
 ## Muudatuse tüüp
 - [ ] Uus funktsioon
