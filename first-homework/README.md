@@ -125,6 +125,9 @@ https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 ## Kuidas on see testitud?
 
 - Kasutades HackerRanki automaatteste
+- 
+![image](https://user-images.githubusercontent.com/119224484/220645990-a79cd185-e2ec-4a09-ad17-de6ec861629a.PNG)
+
 
 ## Kasutatud keel:
 
