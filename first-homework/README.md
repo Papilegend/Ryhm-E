@@ -200,10 +200,14 @@ uue funktsionaalsuse toimimist
 - [ ] Kasutatavad välised teegid on lisatud
 
 
-# Ülesanne 6 - 
+# Ülesanne 6 - Compress the String!
 
 
 ## Kirjeldus + link ülesandele
+
+You are given a string S. Suppose a character 'c' occurs consecutively X times in the string. Replace these consecutive occurrences of the character 'c' with (X, c) in the string.
+
+https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true
 
 
 ## Muudatuse tüüp
@@ -211,10 +215,11 @@ uue funktsionaalsuse toimimist
 - [ ] Vea parandus
 
 ## Kuidas on see testitud?
+Testitud HackerRank automaattestide poolt.
 
 
 ## Kasutatud keel:
-
+Python versioon: 3.10
 
 ## Kontroll-nimekiri
 - [ ] Kood järgib selle projekti stiiliga seotud reegleid
