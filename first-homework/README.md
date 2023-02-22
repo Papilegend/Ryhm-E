@@ -105,11 +105,11 @@ If  is even and in the inclusive range of  to , print Not Weird
 If  is even and in the inclusive range of  to , print Weird
 If  is even and greater than , print Not Weird
 
-**Input Format
+**Input Format**
 
 A single line containing a positive integer, .
 
-**Output Format
+**Output Format**
 
 Print Weird if the number is weird. Otherwise, print Not Weird.
 
