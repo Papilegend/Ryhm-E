@@ -97,6 +97,26 @@ uue funktsionaalsuse toimimist
 
 ## Kirjeldus + link ülesandele
 
+Task
+Given an integer, , perform the following conditional actions:
+
+If  is odd, print Weird
+If  is even and in the inclusive range of  to , print Not Weird
+If  is even and in the inclusive range of  to , print Weird
+If  is even and greater than , print Not Weird
+
+**Input Format
+
+A single line containing a positive integer, .
+
+**Output Format
+
+Print Weird if the number is weird. Otherwise, print Not Weird.
+
+Sample Input 0
+
+https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+
 
 ## Muudatuse tüüp
 - [ ] Uus funktsioon
@@ -104,9 +124,11 @@ uue funktsionaalsuse toimimist
 
 ## Kuidas on see testitud?
 
+Kasutades HackerRanki automaatteste 
 
 ## Kasutatud keel:
 
+Python
 
 ## Kontroll-nimekiri
 - [ ] Kood järgib selle projekti stiiliga seotud reegleid
