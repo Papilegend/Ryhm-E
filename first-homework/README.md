@@ -182,7 +182,8 @@ https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
 
 HackerRanki automaattestide abil 
 
-![image](https://user-images.githubusercontent.com/119224484/220660328-c4ed980e-3c68-4700-892d-bbb2bb167a99.PNG)
+[image](https://user-images.githubusercontent.com/119224484/220660726-63bd41f3-3368-4d14-a7a0-827ea5d93d8f.png)
+
 
 ## Kasutatud keel:
 
