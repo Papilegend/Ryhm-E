@@ -3,17 +3,23 @@ Siia kausta lisame 1. kodutöö failid.
 # Ülesanne 1 - 
 
 ## Kirjeldus + link ülesandele
+You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
 
+Increment the large integer by one and return the resulting array of digits.
+
+https://leetcode.com/problems/plus-one/description/
 
 ## Muudatuse tüüp
 - [ ] Uus funktsioon
 - [ ] Vea parandus
 
 ## Kuidas on see testitud?
+Leetcodes testitud.
+![image](https://user-images.githubusercontent.com/124361323/220559351-09bf80c6-3f5f-4a2b-81d9-6a102c03f4ac.png)
 
 
 ## Kasutatud keel:
-
+Python
 
 ## Kontroll-nimekiri
 - [ ] Kood järgib selle projekti stiiliga seotud reegleid
