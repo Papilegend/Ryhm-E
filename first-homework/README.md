@@ -1,5 +1,3 @@
-Siia kausta lisame 1. kodutöö failid.
-
 # Ülesanne 1 - 
 
 ## Kirjeldus + link ülesandele
