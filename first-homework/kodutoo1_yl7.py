@@ -13,7 +13,7 @@ def get_lower_and_upper_tuple(string):
     upper_sorted = sorted(upper)
     return lower_sorted, upper_sorted
 
-# funktsioon, et saada tuple --> ([paaritu], [paaris])
+# funktsioon, et saada tuple --> ([paaris], [paaritu])
 def get_numbers_tuple(string):
     numbers_even = []
     numbers_odd = []
