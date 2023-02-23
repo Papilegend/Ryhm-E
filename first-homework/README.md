@@ -222,21 +222,28 @@ https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true
 ## Kasutatud keel:
 Python versioon 3.10
 
-# Ülesanne 8 - 
+# Ülesanne 8 - Rainis
 
 
 ## Kirjeldus + link ülesandele
+You're given strings jewels representing the types of stones that are jewels, and stones representing the stones you have. Each character in stones is a type of stone you have. You want to know how many of the stones you have are also jewels.
 
+Letters are case sensitive, so "a" is considered a different type of stone from "A".
+
+https://leetcode.com/problems/jewels-and-stones/description/ 
 
 ## Muudatuse tüüp
 - [ ] Uus funktsioon
 - [ ] Vea parandus
 
 ## Kuidas on see testitud?
+Leetcodes testitud.
+
+![image](https://user-images.githubusercontent.com/124361323/220946742-6598dbc6-9e8e-4a58-a69c-e7d2adf4ab3b.png)
 
 
 ## Kasutatud keel:
-
+Python
 
 ## Kontroll-nimekiri
 - [ ] Kood järgib selle projekti stiiliga seotud reegleid
