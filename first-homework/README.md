@@ -209,27 +209,11 @@ You are given a string S. Suppose a character 'c' occurs consecutively X times i
 
 https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true
 
-
-## Muudatuse tüüp
-- [ ] Uus funktsioon
-- [ ] Vea parandus
-
 ## Kuidas on see testitud?
 Testitud HackerRank automaattestide poolt.
 
-
 ## Kasutatud keel:
 Python versioon: 3.10
-
-## Kontroll-nimekiri
-- [ ] Kood järgib selle projekti stiiliga seotud reegleid
-- [ ] Kood on selge ja loetav
-- [ ] Kood on vastavalt vajadusele kommenteeritud
-- [ ] Ma olen teinud vastavad muudatused dokumentatsioonis
-- [ ] Ülesande automaattestid läbisid (automaattestid on lehel olemas)
-- [ ] Ma olen lisanud testid, mis tõestavad minu paranduse tõhusust või
-uue funktsionaalsuse toimimist
-- [ ] Kasutatavad välised teegid on lisatud
 
 
 # Ülesanne 7 - 
