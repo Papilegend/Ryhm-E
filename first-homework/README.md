@@ -217,6 +217,8 @@ Your task is to sort the string  in the following manner:
 - All sorted uppercase letters are ahead of digits.
 - All sorted odd digits are ahead of sorted even digits.
 
+https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true
+
 ## Kasutatud keel:
 Python versioon 3.10
 
