@@ -197,9 +197,7 @@ Python
 uue funktsionaalsuse toimimist
 - [ ] Kasutatavad välised teegid on lisatud
 
-
 # Ülesanne 6 - Compress the String!
-
 
 ## Kirjeldus + link ülesandele
 
@@ -207,39 +205,20 @@ You are given a string S. Suppose a character 'c' occurs consecutively X times i
 
 https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true
 
-## Kuidas on see testitud?
-Testitud HackerRank automaattestide poolt.
-
 ## Kasutatud keel:
 Python versioon: 3.10
 
-
-# Ülesanne 7 - 
-
+# Ülesanne 7 - ginortS
 
 ## Kirjeldus + link ülesandele
-
-
-## Muudatuse tüüp
-- [ ] Uus funktsioon
-- [ ] Vea parandus
-
-## Kuidas on see testitud?
-
+You are given a string S. Scontains alphanumeric characters only.
+Your task is to sort the string  in the following manner:
+- All sorted lowercase letters are ahead of uppercase letters.
+- All sorted uppercase letters are ahead of digits.
+- All sorted odd digits are ahead of sorted even digits.
 
 ## Kasutatud keel:
-
-
-## Kontroll-nimekiri
-- [ ] Kood järgib selle projekti stiiliga seotud reegleid
-- [ ] Kood on selge ja loetav
-- [ ] Kood on vastavalt vajadusele kommenteeritud
-- [ ] Ma olen teinud vastavad muudatused dokumentatsioonis
-- [ ] Ülesande automaattestid läbisid (automaattestid on lehel olemas)
-- [ ] Ma olen lisanud testid, mis tõestavad minu paranduse tõhusust või
-uue funktsionaalsuse toimimist
-- [ ] Kasutatavad välised teegid on lisatud
-
+Python versioon 3.10
 
 # Ülesanne 8 - 
 
