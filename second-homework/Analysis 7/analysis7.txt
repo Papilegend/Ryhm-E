@@ -1,4 +1,4 @@
-ITEM SORTER
+STRING SORTER
 
 The code could use error handling in case the input string is not valid. 
 
