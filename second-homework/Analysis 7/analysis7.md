@@ -17,11 +17,11 @@ The comments throughout the code explain the purpose of each function and the st
 Overall, the code is well organized, easy to understand, and efficient in terms of time and memory complexity.
 
 
-# I proposed following changes to the original code:
+***I proposed following changes to the original code:***
 
-### 1) if statement to check whether the input string contains only alphanumeric characters
+1) if statement to check whether the input string contains only alphanumeric characters
 
-### 2) else statement to indicate that the code should proceed as usual if the input string contains only alphanumeric characters
+2) else statement to indicate that the code should proceed as usual if the input string contains only alphanumeric characters
 
 The changes ensure that the input string contains only alphanumeric characters, and if not, prints an error message.
 
