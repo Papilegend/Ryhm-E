@@ -1,4 +1,4 @@
-## Analys exercise 8 form group E
+## Analysis exercise 8 form group E
 
 This code defines a function called "numJewelsInStones" which takes two arguments: "jewels" and "stones". Both arguments are expected to be strings.
 
