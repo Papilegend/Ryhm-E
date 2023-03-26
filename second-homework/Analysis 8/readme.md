@@ -1,3 +1,3 @@
-Analysis exercise 8
+# Analysis 8
 
 Made by Gregor Kokk & Art Mehilane
