@@ -13,3 +13,6 @@ In other words, this function is counting the number of jewels (characters in th
 I proposed following changes to the original code:
 1. It may be beneficial to add more comments explaining the purpose of each step in the code.
 2. The code could benefit from more descriptive function names that reflect their purpose more accurately, even if the code is small and simple.
+
+
+I can not make this code better because as I saw Rainis' code it stuck in my head. 
