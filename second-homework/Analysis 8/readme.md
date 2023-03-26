@@ -1,3 +1,3 @@
 # Analysis 8
 
-Made by Gregor Kokk & Art Mehilane
+***Analysed by Art Mehilane & Gregor Kokk***
