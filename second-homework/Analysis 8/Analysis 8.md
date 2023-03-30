@@ -15,4 +15,4 @@ I proposed following changes to the original code:
 2. The code could benefit from more descriptive function names that reflect their purpose more accurately, even if the code is small and simple.
 
 
-I can not make this code better because as I saw Rainis' code it stuck in my head. 
+I made code little bit faster (22ms, was 27ms). I used for loop and variables written out.
