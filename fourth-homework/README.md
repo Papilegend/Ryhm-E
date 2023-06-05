@@ -18,3 +18,10 @@ b. Krüpteeritud tekst tuleb salvestada mõnda faili.
 3. Teksti dekrüpteerimine:
 a. Programm peab võimaldama dekrüpteerida krüpteeritud teksti kasutades
 privaatset võtit.
+
+
+### Programmi kasutus 
+
+Sisesta terminali järjest: python generate_keys.py
+                           python encrypt.py
+                           python decrypt.py
