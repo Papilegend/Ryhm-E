@@ -22,6 +22,8 @@ privaatset võtit.
 
 ### Programmi kasutus 
 
-Sisesta terminali järjest: python generate_keys.py
-                           python encrypt.py
-                           python decrypt.py
+Programmi kasutamiseks sisesta terminali järjest:
+
+- python generate_keys.py
+- python encrypt.py
+- python decrypt.py
